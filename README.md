@@ -16,4 +16,5 @@
 
 - Detailed information about the software architecture and how to run it can be found in our website (link Below)
 - [Build your own GUI based Serial Port Data Acquisition and logging system using tkinter(ttkbootstrap) and Python3](https://www.xanthium.in/multithreading-serial-port-data-acquisition-to-csv-file-using-producer-consumer-pattern-python)
+- ![GUI SerialPort Data logger Software using Python and ttkbootstrap(tkinter) framework](https://www.xanthium.in/sites/default/files/inline-images/python-tkinter-csv-data-logger.jpg)
   

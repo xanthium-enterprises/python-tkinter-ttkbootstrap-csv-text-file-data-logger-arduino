@@ -1,2 +1,2 @@
-# python-tkinter-ttkbootstrap-csv-text-file-data-logger-arduino
+# GUI SerialPort Data logger Software using Python and ttkbootstrap(tkinter) framework
  

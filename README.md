@@ -17,6 +17,12 @@
 - Detailed information about the software architecture and how to run it can be found in our website (link Below)
 - [Build your own GUI based Serial Port Data Acquisition and logging system using tkinter(ttkbootstrap) and Python3](https://www.xanthium.in/multithreading-serial-port-data-acquisition-to-csv-file-using-producer-consumer-pattern-python)
 
+## Datalogger CSV format
+
+- ![Arduino data acquisition system that logs data to csv file using Python and tkinter](https://www.xanthium.in/sites/default/files/inline-images/csv-text-editor-python-datalogger.jpg)
+- ![Arduino data acquisition and logging system that logs data to Microsoft Excel file using Python and tkinter](https://www.xanthium.in/sites/default/files/inline-images/csv-excel-python-datalogger.jpg)
+- ![Arduino data acquisition and logging system that logs data to Libreoffice Calc file using Python and tkinter](https://www.xanthium.in/sites/default/files/inline-images/csv-libreoffice-calc-python-datalogger.jpg)
+
 
 
   

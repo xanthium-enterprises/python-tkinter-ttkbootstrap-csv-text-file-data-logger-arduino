@@ -5,7 +5,7 @@
 - Filename is created using current date and time
 - uses simple threading to improve the responsiveness of the GUI,GUI does not freeze when acquiring data
 
-- ![GUI SerialPort Data logger Software using Python and ttkbootstrap(tkinter) framework]()
+- ![GUI SerialPort Data logger Software using Python and ttkbootstrap(tkinter) framework](https://www.xanthium.in/sites/default/files/inline-images/python-tkinter-csv-data-logger.jpg)
 
   ## Requirements
   - Before running the program ,make sure you have the following modules installed
